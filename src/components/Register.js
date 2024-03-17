@@ -1,5 +1,5 @@
 function Register() {
-  return(
+  return (
     <div>
       <p>Hello</p>
     </div>
